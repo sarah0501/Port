@@ -235,8 +235,8 @@ a {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
-	width: 100%; 
-	height: 100%;
+	width: 1120px;
+	height:630px;
 
 }
 
@@ -401,8 +401,7 @@ color: white;
 }
 
 .groß {
-	width: 100%; 
-	height: auto;
+	width: 100%;
 	padding-top: 15%;
 	padding-bottom: 15%;
 
