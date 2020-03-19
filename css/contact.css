@@ -220,32 +220,6 @@ a {
 
 }
 
-/*-----------------------------*/
-
-@media screen and (min-height: 1000px) {
-
-
-
-}
-
-
-/*-----------------------------*/
-
-@media screen and (max-width:1025px) and (max-height: 670px) and (orientation: landscape) {
-
-
-
-}
-
-
-/*-----------------------------*/
-
-@media screen and (max-width:650px) {
-
-
-}
-
-/*-----------------------------*/
 
 @media screen and (max-width: 720px) {
 
@@ -274,27 +248,7 @@ a {
 }
 }
 
-@media screen and (max-width: 420px) and (max-height: 850px) and (min-height: 680px) {
-	.überschrift h2 {
-	font-size: 8vw;
-	padding-top: 25%;
-	width: 70%;
-}
 
-.wri {
-width: 70%;
-}
-
-.bild {
-	display: none;
-	position: absolute;
-	float: none;
-}
-
-.sec {
-	padding-top: 10%;
-}
-}
 
 @media screen and (min-height: 1000px) {
 	.überschrift h2 {
@@ -320,7 +274,7 @@ width: 70%;
 }
 }
 
-@media screen and (max-width: 400px) and (max-height: 670px) {
+@media screen and (max-width: 650px) {
 	.überschrift h2 {
 	font-size: 8vw;
 	padding-top: 15%;
