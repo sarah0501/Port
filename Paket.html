@@ -200,10 +200,9 @@ $(document).on('scroll', function() {
         playVid('theTarget');
     }
     // #theTarget in deine 2 id
-    if($(this).scrollTop()>=$('#trigger2').position().top){
-        playVid('theTarget');
-    }
+    
 })
+  
 function playVid(vide) {
     document.getElementById(vide).play();
 }
