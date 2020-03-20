@@ -54,13 +54,13 @@ body, html {
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
 	align-items: flex-start;
-	text-align: center;
+	
 	grid-gap: 1.2rem;
 	padding: 2%;
 	font-size: 1.2rem;
 	padding-top: 4%;
 	width: 80%;
-   min-height:100vh;
+    min-height:100vh;
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 10%;
