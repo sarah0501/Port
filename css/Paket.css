@@ -80,23 +80,6 @@ body, html {
 	transition: .5s;
 }
 
-.sec2 {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
-	text-align: left;
-	grid-gap: 4rem;
-	font-size: 1.2rem;
-	width: 100%;
-}
-
-.sec3 {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
-	text-align: left;
-	grid-gap: 1rem;
-	font-size: 1.2rem;
-	width: 100%;
-}
 
 .column2 {
 	width: 100%;
