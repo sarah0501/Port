@@ -258,10 +258,12 @@ a {
 }
 
 .groß {
+	padding-left: auto;
+	padding-right: auto;
+	position: relative;
+	width: 65vw;
 	margin-left: auto;
 	margin-right: auto;
-	position: relative;
-	width: 70vw;
 	display: block;
 }
 
