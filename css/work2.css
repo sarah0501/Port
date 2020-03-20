@@ -588,7 +588,7 @@ top: 60%;
 
 /*-----------------------------*/
 
-@media screen and (max-width: 500px)  {
+@media screen and (max-width: 600px)  {
 	.sec {
 		grid-template-columns: repeat(1, 1fr);
 		width: 90%;
@@ -636,6 +636,15 @@ top: 60%;
 	display: none;
 }
 
+	.strich {
+	background-color: rgba(0,255,255,1);
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+	height: 0.3vh;
+	margin-top: 1vh;
+	margin-bottom: 2vh;
+}
 
 
 }
