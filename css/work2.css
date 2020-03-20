@@ -22,6 +22,16 @@ body, html {
 	transition: .5s;
 }
 
+.strich {
+	background-color: rgba(0,255,255,1);
+	width: 20%;
+	margin-right: auto;
+	margin-left: auto;
+	height: 0.3vh;
+	margin-top: 2vh;
+	margin-bottom: 2vh;
+}
+
 .bgimg-1 {
   background-position: center;
   background-size: cover;
