@@ -35,6 +35,11 @@ body, html {
   padding-right: 25px;
 }
 
+#imp {
+	position: fixed;
+	width: 100vw;
+}
+
 .überschrift {
 	padding-top: 10%;
 	text-align: center;
