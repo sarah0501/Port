@@ -44,6 +44,11 @@ html {
   padding-right: 25px;
 }
 
+#imp {
+	position: fixed;
+	width: 100vw;
+}
+
 .Hey {
 	font-size: 3.1rem;
 }
