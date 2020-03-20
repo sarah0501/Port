@@ -258,8 +258,8 @@ a {
 }
 
 .groß {
-	padding-left: auto;
-	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 	position: relative;
 	width: 70vw;
 	display: block;
