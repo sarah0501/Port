@@ -663,6 +663,12 @@ color: white;
 	height: auto;
 	margin-top: -10%;
 }
+	.parallax {
+	background: url(img/film1.jpg) no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+}
 
 
 
