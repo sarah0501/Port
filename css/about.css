@@ -511,6 +511,16 @@ padding-top: 12%;
 	padding: 2%;
 	padding-top: 5%;
 }
+	
+	.strich2 {
+	background-color: rgba(0,255,255,1);
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+	height: 0.3vh;
+	margin-top: 2vh;
+	margin-bottom: 3vh;
+}
 
 }
 
