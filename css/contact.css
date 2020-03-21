@@ -331,7 +331,7 @@ width: 80%;
 
 
 .wrapper {
-	margin-top: 15%;
+	margin-top: 5%;
 	height: auto;
 }
 
@@ -354,6 +354,8 @@ width: 80%;
 	height:auto;
 	}
 
-
+.footer {
+	margin-top: 20%;
+	}
 
 }
