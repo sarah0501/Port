@@ -177,7 +177,6 @@ a {
 
 .footer {
 	bottom: 0;
-	position: absolute;
 	padding: 17px;
 	width: 100%;
 }
@@ -362,7 +361,6 @@ width: 80%;
 	bottom: 0;
 	padding: 17px;
 	width: 100%;
-	position: relative;
 }
 
 }
