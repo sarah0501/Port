@@ -3,7 +3,7 @@
     height: 100vw;
     transform: rotate(90deg);
   }
-}
+  }
 
 
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
@@ -1075,3 +1075,10 @@ body, html {
 		height: auto;
 	}
 }
+
+@media only screen and (orientation:landscape){
+  body {
+    height: 100vw;
+    transform: rotate(90deg);
+  }
+  }
