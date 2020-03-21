@@ -278,7 +278,7 @@ a {
 .container_pr {
 	max-width: 1100px;
 	margin: auto;
-	overflow: auto;
+	overflow: hidden;
 	padding: 0 2rem;
 }
 
@@ -839,17 +839,17 @@ body, html {
 }
 
 	.Hey {
-	font-size: 2.2rem;
+	font-size: 1.9rem;
 }
 
 .me {
-	font-size: 1.4rem;
+	font-size: 1.2rem;
 }
 
 .hb { 
 	padding-top: 0%; 
 	width: 95%;
-	margin-top: -20vh;
+	margin-top: -40%;
 }
 
 
@@ -1029,7 +1029,7 @@ body, html {
 .container_pr {
 	max-width: 1400px;
 	margin: auto;
-	overflow: auto;
+	overflow: hidden;
 	padding: 0 2rem;
 }
 
