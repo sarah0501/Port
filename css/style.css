@@ -1077,20 +1077,42 @@ body, html {
 	padding-top: 0%; 
 	width: 95%;
 	margin-top: 6%;
-	font-size: 5px;
 }
 
-.ccp {
-display: none;
+.Hey {
+	font-size: 30px;
+	width: 80%;
 }
 
+.wrapper {
+	margin-top: 15%;
+	height: auto;
 }
 
-@media screen and (max-width: 700px) and (orientation: landscape) {
-	.hb { 
-	padding-top: 0%; 
-	width: 95%;
-	margin-top: 6%;
-	font-size: 5px;
+.inner {
+	height: auto;
 }
+
+	.container {
+		grid-template-columns: 1fr;
+		padding: 2rem 50px;
+		height: auto;
+	}
+
+	.container_2 {
+		grid-template-columns: 1fr;
+		padding: 2rem 50px;
+}
+
+.main-header {
+	padding-bottom: 20%;
+}
+
+.last {
+	height: auto;
+	margin-top: -10%;
+}
+
+
+
 }
