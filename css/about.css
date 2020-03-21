@@ -47,7 +47,6 @@ body, html {
 
 .überschrift h2 {
 	font-size: 4.5rem;
-	padding-bottom: 4%;
 }
 
 .kp2 {
@@ -232,6 +231,10 @@ padding-top: 5%;
 
 .aw {
 	transition: .5s;
+}
+
+.üü {
+	padding-bottom: 1%;
 }
 /*-----------------------------*/
 
