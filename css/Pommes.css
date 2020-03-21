@@ -630,6 +630,11 @@ color: white;
 	margin-top: -10%;
 }
 
-
+.parallax {
+	background: url(img/kart.jpg) no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+}
 
 }
