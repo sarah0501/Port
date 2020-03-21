@@ -179,6 +179,8 @@ a {
 	bottom: 0;
 	padding: 17px;
 	width: 100%;
+	float: left;
+	position: absolute;
 }
 
 
@@ -361,6 +363,10 @@ width: 80%;
 	bottom: 0;
 	padding: 17px;
 	width: 100%;
+	float: left;
+	position: static;
+		margin-top: 5%;
+}
 }
 
 }
