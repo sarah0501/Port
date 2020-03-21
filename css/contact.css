@@ -357,5 +357,11 @@ width: 80%;
 	.wri {
 		height: auto;
 	}
+	
+	.footer {
+	bottom: 0;
+	padding: 17px;
+	width: 100%;
+}
 
 }
