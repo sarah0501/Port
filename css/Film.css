@@ -645,5 +645,9 @@ color: white;
 	margin-top: 0%;
 	height: auto;
 }
+	
+	#button {
+	display: none;
+}
 
 }
