@@ -163,6 +163,26 @@ padding-top: 0%;
 	font-size: 1.2rem;
 }
 
+.details {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+
+.details img {
+	width: 100%;
+}
+
+.gg {
+	display: block;
+}
+
+.mm {
+	display: none;
+}
+
 /*-----------------------------*/
 
 
@@ -382,6 +402,14 @@ color: black;
 
 
 }
+	
+	.details {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 18%;
+	padding-bottom: 0%;
+}
 
 .container2 img {
 	margin-bottom: 5%;
@@ -479,13 +507,31 @@ color: black;
 	margin-right: auto;
 	margin-left: auto;
 	height: 0.3vh;
-	margin-top: 15%;
+	margin-top: 6%;
 	margin-bottom: 8%;
 }
 
 .text {
 	padding-top: 10%;
 	width: 100%;
+}
+
+
+.details {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 18%;
+	padding-bottom: 0%;
+}
+
+
+.gg {
+	display: none;
+}
+
+.mm {
+	display: block;
 }
 
 
