@@ -701,6 +701,9 @@ top: 60%;
 	height: auto;
 }
 
+	#button {
+	display: none;
+}
 
 
 }
