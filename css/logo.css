@@ -743,5 +743,8 @@ color: white;
 	background-attachment: fixed;
 	height: 100vh;
 }
-
+#button {
+	display: none;
+}
+	
 }
