@@ -163,6 +163,26 @@ padding-top: 0%;
 	font-size: 1.2rem;
 }
 
+.details {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+
+.details img {
+	width: 100%;
+}
+
+.gg {
+	display: block;
+}
+
+.mm {
+	display: none;
+}
+
 /*-----------------------------*/
 
 
@@ -459,6 +479,14 @@ color: black;
 	padding: 0;
 	margin: 0;
 }
+	
+	.details {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 18%;
+	padding-bottom: 0%;
+}
 
 }
 
@@ -587,6 +615,23 @@ color: black;
 
 .tt {
 	padding-bottom: 10%;
+}
+	
+	.details {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 18%;
+	padding-bottom: 0%;
+}
+
+
+.gg {
+	display: none;
+}
+
+.mm {
+	display: block;
 }
 
 
