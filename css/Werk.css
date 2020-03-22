@@ -231,6 +231,26 @@ padding-top: 5%;
 	width: 100%;
 }
 
+.details {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+
+.details img {
+	width: 100%;
+}
+
+.gg {
+	display: block;
+}
+
+.mm {
+	display: none;
+}
+
 /*-----------------------------*/
 
 
@@ -451,6 +471,14 @@ color: white;
 	padding-bottom: 8%;
 	width: 100%;
 }
+	
+	.details {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 18%;
+	padding-bottom: 0%;
+}
 
 }
 
@@ -568,6 +596,23 @@ color: white;
 #button {
   display: none;
 
+}
+	
+	.details {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 18%;
+	padding-bottom: 0%;
+}
+
+
+.gg {
+	display: none;
+}
+
+.mm {
+	display: block;
 }
 
 }
