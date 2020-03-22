@@ -642,5 +642,13 @@ color: white;
 	#button {
 	display: none;
 }
+	
+	.groß {
+	width: 100%; 
+	height: auto;
+	margin-top: 15%;
+	margin-bottom: 25%;
+
+}
 
 }
