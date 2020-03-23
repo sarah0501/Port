@@ -77,14 +77,17 @@ body, html {
 	padding-top: 5%;
 	text-align: center;
 	z-index: 100;
+	
 }
 
 .überschrift h2 {
 	font-size: 4.5rem;
+	font-family: "Raleway", sans-serif
 }
 
 .überschrift p {
 	font-size: 1.4rem;
+	font-family: "Raleway", sans-serif
 }
 
 
@@ -154,10 +157,12 @@ padding-top: 0%;
 .facts h3, .free h3, .person h3, .vita h3, .skills h3, .text h3, .text_2 h3{
 	color: rgba(0,255,255,1);
 	font-size: 2rem;
+	font-family: "Raleway", sans-serif
 }
 
 .facts p, .free p, .person p, .text p .vita p, .skills p{
 	font-size: 1.2rem;
+	font-family: "Raleway", sans-serif
 }
 
 
@@ -225,6 +230,7 @@ padding-top: 5%;
 .tt {
 	margin-bottom: 10%;
 	font-size: 1.2rem;
+	font-family: "Raleway", sans-serif
 }
 
 .groß {
