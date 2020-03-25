@@ -59,7 +59,7 @@ body, html {
 }
 
 .überschrift {
-	padding-top: 5%;
+	padding-top: 8vh;
 	text-align: center;
 	z-index: 100;
 }
