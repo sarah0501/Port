@@ -501,6 +501,12 @@ color: white;
 	padding-top: 20%;
 	transform: scale(1.5);
 }
+	
+	.überschrift {
+	padding-top: 6vh;
+	text-align: center;
+	z-index: 100;
+}
 
 }
 
