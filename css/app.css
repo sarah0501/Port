@@ -597,6 +597,12 @@ color: black;
 #button {
 	display: none;
 }
+	
+	.überschrift {
+	padding-top: 5vh;
+	text-align: center;
+	z-index: 100;
+}
 
 }
 
