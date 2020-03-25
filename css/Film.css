@@ -510,6 +510,13 @@ color: white;
 .tt {
 	padding-bottom: 10%;
 }
+	
+	
+.überschrift {
+	padding-top: 6vh;
+	text-align: center;
+	z-index: 100;
+}
 
 }
 
