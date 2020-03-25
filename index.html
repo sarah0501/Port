@@ -258,48 +258,7 @@ function w3_close() {
 
 <script>
 
-scrollpos = 0;
-scrollt = false;
-th = window.innerHeight;
-function hello() {
-  $('html, body').animate({
-    scrollTop: scrollpos
-}, 600);
-  return false;
-}
-var scrollTimeout;
-  addEventListener('scroll', function(e) {
-      clearTimeout(scrollTimeout);
-      scrollTimeout = setTimeout(function() {
-          console.log('Scroll ended');
-          scrollt = false;
-      }, 100);
-  });
-  window.addEventListener('wheel', async function(event)
-    {
-    if (event.deltaY < 0 && window.pageYOffset > 0)
-        {
-          //WHEEL UP
-            if(scrollt == false){
-              scrollt = true;
-              console.log("high");
-              scrollpos -= th;
-              hello();
-            }
-            //event.preventDefault();
-          //event.stopPropagation();
-        }
-        else if (event.deltaY > 0)
-        {
-          //WHEEL DOWN
-            if(scrollt == false){
-              scrollt = true;
-              console.log("down");
-              scrollpos += th;
-              hello();
-            }
-        }
-    });
+
 
   function ToTop(){
     scrollpos = 0;
