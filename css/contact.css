@@ -14,7 +14,11 @@ body, html {
 	font-size: 1.6rem;
 	padding-left: 20px;
 	transition: .5s;
+}
 
+#imp {
+	position: fixed;
+	width: 100vw;
 }
 
 .quest {
