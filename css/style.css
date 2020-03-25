@@ -906,6 +906,18 @@ body, html {
 	padding-top: 6%;
 	font-size: 0.7rem;
 }
+	#two {
+	margin-top: 15vh;
+
+}
+
+#three {
+	margin-top: 15vh;
+}
+
+#four {
+	margin-top: 15vh;
+}
 
 
 } 
@@ -920,6 +932,18 @@ body, html {
 	font-size: 2.3rem;
 }
 
+	#two {
+	margin-top: 15vh;
+
+}
+
+#three {
+	margin-top: 15vh;
+}
+
+#four {
+	margin-top: 15vh;
+}
 
 .inner {
 	height: auto;
