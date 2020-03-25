@@ -83,6 +83,7 @@ body, html {
 .überschrift h2 {
 	font-size: 4.2rem;
 	font-family: "Raleway", sans-serif;
+	padding-bottom: 4vh;
 }
 
 .überschrift p {
