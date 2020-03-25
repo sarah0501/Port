@@ -409,16 +409,16 @@ img {
 }
 
 #two {
-	margin-top: 19%;
+	margin-top: 20vh;
 
 }
 
 #three {
-	margin-top: 25%;
+	margin-top: 25vh;
 }
 
 #four {
-	margin-top: 21%;
+	margin-top: 27vh;
 }
 
 
@@ -428,7 +428,11 @@ img {
 
 .wrapper {
 	width: 100%;
-	height: 400vh;
+	height: auto;
+}
+
+#k1 {
+	margin-top: 8vh;
 }
 
 
