@@ -503,6 +503,7 @@ color: white;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom:0;
+	padding-bottom: 2vh;
 }
 
 .facts h3, .free h3, .person h3, .vita h3, .skills h3, .text h3{
