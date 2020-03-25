@@ -550,6 +550,13 @@ color: white;
 	display: block;
 	padding-bottom: 0%;
 }
+	
+	
+.überschrift {
+	padding-top: 6vh;
+	text-align: center;
+	z-index: 100;
+}
 
 }
 
