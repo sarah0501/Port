@@ -135,7 +135,7 @@ html {
 
 .inner {
 	width: 100%;
-	height: 100vh;
+	height: auto;
 	padding-top: 3%;
 }
 
@@ -299,12 +299,14 @@ a {
 }
 
 .main-header {
-height: 30vh;
+height: auto;
 display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
 text-align: center;
+padding-top: 15vh;
+padding-bottom: 10vh;
 
 }
 
@@ -435,7 +437,6 @@ img {
 	margin-top: 8vh;
 }
 
-
 /*-----------------------------*/
 
 #ll {
@@ -479,7 +480,7 @@ img {
 }
 
 .last p {
-	font-size: 1.2rem;
+	font-size: 1.3rem;
 }
 
 .contact {
@@ -726,7 +727,7 @@ img {
 }
 
 .last {
-	height: auto;
+	height: 55vh;
 	margin-top: -10%;
 }
 
@@ -841,22 +842,24 @@ body, html {
 }
 
 .last {
-	height: 70vh;
-	margin-top: -8%;
+	height: auto;
+	padding-top: 0%;
 }
 
+
 	.Hey {
-	font-size: 2.3rem;
+	font-size: 2.2rem;
 }
 
 .me {
 	font-size: 1.4rem;
+	padding-bottom: 10vh;
 }
 
 .hb { 
 	padding-top: 0%; 
 	width: 95%;
-	margin-top: -20vh;
+	margin-top: -12vh;
 }
 
 
@@ -906,19 +909,31 @@ body, html {
 	padding-top: 6%;
 	font-size: 0.7rem;
 }
-	#two {
-	margin-top: 15vh;
+
+#two {
+	margin-top: 5vh;
 
 }
 
 #three {
-	margin-top: 15vh;
+	margin-top: 5vh;
 }
 
 #four {
-	margin-top: 15vh;
+	margin-top: 5vh;
 }
 
+.main-header {
+height: auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+padding-top: 5vh;
+padding-bottom: 7vh;
+
+}
 
 } 
 
@@ -932,18 +947,6 @@ body, html {
 	font-size: 2.3rem;
 }
 
-	#two {
-	margin-top: 15vh;
-
-}
-
-#three {
-	margin-top: 15vh;
-}
-
-#four {
-	margin-top: 15vh;
-}
 
 .inner {
 	height: auto;
@@ -1029,6 +1032,7 @@ body, html {
 	padding-top: 6%;
 	font-size: 0.7rem;
 }
+
 
 
 }
