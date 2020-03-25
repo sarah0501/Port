@@ -22,9 +22,12 @@ body, html {
 	text-decoration: none;
 	font-family: "Raleway", sans-serif;
 	line-height: 1.8;
-	
 
+}
 
+#imp {
+	position: fixed;
+	width: 100vw;
 }
 
 #sl:hover {
