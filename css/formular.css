@@ -542,7 +542,7 @@ color: black;
 	margin-right: auto;
 	margin-left: auto;
 	height: 0.3vh;
-	margin-top: 6%;
+	margin-top: 8%;
 	margin-bottom: 7%;
 }
 
@@ -634,8 +634,8 @@ color: black;
 	display: block;
 }
 
-		.überschrift {
-	padding-top: 5vh;
+	.überschrift {
+	padding-top: 3vh;
 	text-align: center;
 	z-index: 100;
 }
