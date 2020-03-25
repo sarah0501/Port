@@ -60,10 +60,12 @@ body, html {
 .überschrift h2 {
 	font-size: 4.5rem;
 	padding-bottom: 4vh;
+	font-family: "Raleway", sans-serif;
 }
 
 .überschrift p {
 	font-size: 1.4rem;
+	font-family: "Raleway", sans-serif;
 }
 
 
@@ -138,6 +140,7 @@ padding-bottom: 2%;
 .facts h3, .free h3, .person h3, .vita h3, .skills h3, .text_2 h3 {
 	color: rgba(0,255,255,1);
 	font-size: 2rem;
+	font-family: "Raleway", sans-serif;
 }
 
 .text h3 {
@@ -147,6 +150,7 @@ padding-bottom: 2%;
 
 .facts p, .free p, .person p, .text p .vita p, .skills p{
 	font-size: 1.3rem;
+	font-family: "Raleway", sans-serif;
 }
 
 
@@ -252,7 +256,8 @@ padding-bottom: 2%;
 
 .tt {
 	font-size: 1.3rem;
-	margin-bottom: 10%
+	margin-bottom: 10%;
+	font-family: "Raleway", sans-serif;
 }
 
 .details {
@@ -522,6 +527,7 @@ color: white;
 	
 .überschrift {
 	padding-top: 5vh;
+	}
 
 .überschrift h2 {
 	font-size: 38px;
