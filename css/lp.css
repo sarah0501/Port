@@ -60,10 +60,12 @@ body, html {
 .überschrift h2 {
 	font-size: 4.5rem;
 	padding-bottom: 3vh;
+	font-family: "Raleway", sans-serif
 }
 
 .überschrift p {
 	font-size: 1.4rem;
+	font-family: "Raleway", sans-serif
 }
 
 
@@ -133,10 +135,12 @@ padding-top: 0%;
 .facts h3, .free h3, .person h3, .vita h3, .skills h3, .text h3{
 	color: rgba(0,255,255,1);
 	font-size: 2rem;
+	font-family: "Raleway", sans-serif;
 }
 
 .facts p, .free p, .person p, .text p .vita p, .skills p{
 	font-size: 1.3rem;
+	font-family: "Raleway", sans-serif;
 }
 
 
@@ -211,7 +215,8 @@ padding-top: 0%;
 
 .tt {
 	font-size: 1.3rem;
-	margin-bottom: 10%
+	margin-bottom: 10%;
+	font-family: "Raleway", sans-serif;
 }
 /*-----------------------------*/
 
@@ -426,6 +431,7 @@ color: white;
 	font-size: 38px;
 	padding-top: 8%;
 	line-height: 1.5;
+	margin-bottom:0;
 }
 
 .facts h3, .free h3, .person h3, .vita h3, .skills h3, .text h3{
@@ -433,12 +439,14 @@ color: white;
 	font-size: 25px;
 	margin: 0;
 	padding: 0;
+	font-family: "Raleway", sans-serif;
 }
 
 .facts p, .free p, .person p, .text p .vita p, .skills p, .tt{
 	font-size: 17px;
 	line-height: 1.5;
 	padding-top: 2%;
+	font-family: "Raleway", sans-serif;
 }
 
 .person {
@@ -452,7 +460,7 @@ color: white;
 	margin-right: auto;
 	display: block;
 	line-height: 1.5;
-	padding-top: 2%;
+	padding-top: 0%;
 }
 
 .strich {
@@ -521,7 +529,7 @@ color: white;
 	display: none;
 }
 	
-		.überschrift {
+	.überschrift {
 	padding-top: 5vh;
 	text-align: center;
 	z-index: 100;
