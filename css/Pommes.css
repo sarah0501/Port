@@ -515,6 +515,11 @@ color: white;
 	display: none;
 }
 
+	.überschrift {
+	padding-top: 6vh;
+	text-align: center;
+	z-index: 100;
+}
 
 }
 
