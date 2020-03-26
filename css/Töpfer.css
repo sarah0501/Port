@@ -225,13 +225,13 @@ padding-bottom: 2%;
 .article {
 	width: 100%;
 	margin-top: 5%;
-	margin-bottom: 10%;
+	margin-bottom: 0%;
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
 	background-color: #E6E6E6;
 	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-bottom: 15%;
 }
 
 .einz {
