@@ -27,11 +27,11 @@ body.lb-disable-scrolling{overflow:hidden}
 
 .lb-next,.lb-prev{height:100%;cursor:pointer;display:block}
 
-.lb-nav a.lb-prev{width:15%;left:0;float:left;background:url(img/prev.png) left 48% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}
+.lb-nav a.lb-prev{width:10%;left:0;float:left;background:url(img/prev.png) left 48% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}
 
 .lb-nav a.lb-prev:hover{filter:alpha(Opacity=100);opacity:1}
 
-.lb-nav a.lb-next{width:15%;right:0;float:right;background:url(img/next.png) right 50% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}
+.lb-nav a.lb-next{width:10%;right:0;float:right;background:url(img/next.png) right 50% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}
 
 .lb-nav a.lb-next:hover{filter:alpha(Opacity=100);opacity:1;}
 
