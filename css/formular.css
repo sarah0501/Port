@@ -380,28 +380,7 @@ color: black;
 
 /*-----------------------------------------------------------------------------------------*/
 
-@media screen and (max-width: 990px) and (max-height: 999px) and (min-width:651px) {
 
-.container2 {
-		grid-template-columns: repeat(3, 1fr);
-		padding: 1rem 20px;
-}
-
-.skill-title h3 {
-		padding: 0;
-		margin: 0;
-}
-
-.skill-title h3 {
-	font-size: 1.2rem;
-}
-
-.last {
-	height: 70vh;
-}
-
-
-}
 
 /*-----------------------------*/
 
@@ -632,16 +611,6 @@ color: black;
 	margin-bottom: 15%;
 }
 
-.container2 {
-	width: 85%;
-	padding: 0px;
-	column-count: 2;
-	column-width: 100%;
-	margin-top: 10%;
-	margin-bottom: 8%;
-	column-gap: 10px;
-
-}
 
 .boxx {
 	box-shadow: 3px 3px 3px grey;
