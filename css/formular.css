@@ -185,7 +185,37 @@ padding-top: 0%;
 
 /*-----------------------------*/
 
+.Try{
+	display: block;
+	background: black;
+	padding: 0.8rem 1.8rem;
+	margin-top: 2rem;
+	margin-bottom: 8%;
+	cursor: pointer;
+	transition: .2s;
+	width: 20%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
 
+}
+
+.Try a {
+color: white;
+}
+
+.Try:hover a {
+color: black;
+}
+
+.Try:hover {
+	background: rgb(0,255,255);
+	color: black;
+	transform: scale(1.1);
+	transition: .2s;
+	border: none;
+}
 /*-----------------------------*/
 
 * {
@@ -494,6 +524,11 @@ color: black;
 /*-----------------------------*/
 
 @media screen and (max-width:650px) {
+	
+	.Try{
+	width: 40%;
+
+}
 
 .überschrift h2 {
 	font-size: 32px;
