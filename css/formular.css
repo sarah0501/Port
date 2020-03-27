@@ -527,6 +527,17 @@ color: black;
 	
 	.Try{
 	width: 40%;
+	padding-top: 8vh;
+
+}
+	
+	.container2 {
+	width: 70%;
+	padding: 20px;
+	column-count: 1;
+	column-width: 100%;
+	margin-top: 4%;
+	background-color: #E6E6E6;
 
 }
 
