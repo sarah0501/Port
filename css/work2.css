@@ -707,3 +707,18 @@ top: 60%;
 
 
 }
+
+@media screen and (min-widht: 1600px) {
+	.single-img h2 {
+  font-size: 2rem;
+  top: 38%;
+  line-height: 1.4;
+  display: block;
+
+  }
+	
+	 #kartoschka {
+ 	width: 70%;
+ 	top: 32%;
+ }
+}
