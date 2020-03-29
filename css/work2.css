@@ -711,7 +711,7 @@ top: 60%;
 @media screen and (min-widht: 1600px) {
 	.single-img h2 {
   font-size: 2rem;
-  top: 38%;
+  top: 40%;
   line-height: 1.4;
   display: block;
 
@@ -719,6 +719,6 @@ top: 60%;
 	
 	 #kartoschka {
  	width: 70%;
- 	top: 32%;
+ 	top: 35%;
  }
 }
